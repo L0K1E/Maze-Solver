@@ -1,6 +1,6 @@
 # Maze Solver (Using A* Algorithm)
 
-Maze Solver programed in python with pygame library, used A* algorithm to find the shortest distance.
+Maze Solver is built using python with pygame library, using A* algorithm to find the shortest distance.
 A* is an **informed search algorithm**, or a best-first search, meaning that it is formulated in terms of weighted graphs: starting from a specific starting node of a graph, it aims to find a path to the given goal node having the smallest cost
 
 ### Controls
