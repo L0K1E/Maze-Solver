@@ -8,10 +8,10 @@ A* is an **informed search algorithm**, or a best-first search, meaning that it 
 ### Controls
 | Command  | Action  |
 | ------------ | ------------ |
-| Right mouse button  | Start node  |
-| Right mouse button  |  End node |
-|  Right mouse button | Walls  |
-| Left mouse button| Clear
+| Left mouse button  | Start node  |
+| Left mouse button  |  End node |
+|  Left mouse button | Walls  |
+| Right mouse button| Clear
 |  Space Bar | Run Simulation |
 | C | Clear|
 
