@@ -5,7 +5,7 @@ Maze Solver is built using python with pygame library, using A* algorithm to fin
 
 A* is an **informed search algorithm**, or a best-first search, meaning that it is formulated in terms of weighted graphs: starting from a specific starting node of a graph, it aims to find a path to the given goal node having the smallest cost
 
-### Controls![Screenshot from 2022-11-19 13-15-17](https://user-images.githubusercontent.com/87218951/213483309-a7fb0eec-a81b-44ca-94b0-6beb71fa4207.png)
+![media io_SsKZUx8E](https://user-images.githubusercontent.com/87218951/213486823-0bee7706-024f-49b7-b36f-2b25710b7696.gif)
 
 | Command  | Action  |
 | ------------ | ------------ |
