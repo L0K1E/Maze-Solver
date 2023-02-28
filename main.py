@@ -9,18 +9,7 @@ win = pygame.display.set_mode((WIDTH, HEIGHT))
 clock =pygame.time.Clock()
 pygame.display.set_caption("Maze Solver ( Using A* Algorithm )")
 
-#Basic Colors
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-BLUE = (0, 0, 255)
-YELLOW = (255, 255, 0)
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-PURPLE = (128, 0, 128)
-ORANGE = (255, 165, 0)
-GREY = (128, 128, 128)
-TURQUOISE = (64, 224, 208)
-
+#Colors
 BACKGROUND = (46, 2, 73)
 PATH_CLOSE = (87, 9, 135) #(87, 10, 87)
 PATH_OPEN = (127, 17, 194) #(169, 16, 121)
